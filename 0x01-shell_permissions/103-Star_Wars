@@ -1,2 +1,2 @@
 #!/bin/bash
-play starwarsiv
+telnet towel.blinkenlights.nl`
