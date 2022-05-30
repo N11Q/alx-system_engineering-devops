@@ -1,1 +1,1 @@
-My first attempt at writing and running bash scripts
+0-hello_world -  prints “Hello, World”, followed by a new line to the standard output.
